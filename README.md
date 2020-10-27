@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Giordani and I'm studying software development. I am currently studying computer science at IFSUL.
 <!--
 **GiordaniSantos/GiordaniSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
