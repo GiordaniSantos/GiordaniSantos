@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Giordani and I'm studying Computer Science at FADERGS.
+I'm Giordani and I'm studying ADS at UNISINOS.
 <!--
 **GiordaniSantos/GiordaniSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ere are some ideas to get you started:
@@ -24,15 +24,20 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-ec6231.svg?logo=Html5&style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSS3-007acc.svg?logo=Css3&style=flat-square" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <img src="https://img.shields.io/badge/-Javascript-FFD700.svg?logo=Javascript&style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  />
 </p>
 
 <h3 align="center">📚 I'm currently Learning</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/-React%20Native-61DAFB.svg?logo=React&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/-Typescript-007acc.svg?logo=Typescript&style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 
 <h3 align="center">📱 How to reach me </h3>
